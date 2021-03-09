@@ -10,5 +10,4 @@ func main() {
 	} else {
 		fmt.Println("Alice")
 	}
-
 }
